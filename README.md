@@ -1,3 +1,5 @@
+
+
 # IOT-BASED-SMART-HOME-AUTOMATION
 This project presents the overall design of Home Automation System (HAS) with low 
 cost and wireless system. It specifically focuses on the development of an IOT based home 
